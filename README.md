@@ -4,9 +4,9 @@ In today's competitive retail landscape, businesses must continuously adapt to s
 # Objective
 The primary objective of this project is to optimize profit which is achieved through detailed analysis of different aspects of the superstore data set to give data driven recommendation.
 # Tool used
-**SQL** (PostgreSQL):  data analysis
+**SQL** (PostgreSQL):  data analysis  **[You can Check my SQL queries here!!](superstore_data_analysis_project.sql)**
 
-**Power BI**: Used for visualizing insights with interactive dashboards.
+**Power BI**: Used for visualizing insights with interactive dashboards. 
 # Data Description
 The Superstore dataset is publicly available through Kaggle website as one CSV file, it’s a comprehensive collection of sales data from 2014-01-13 to 2017-12-28 consisting of 8000 rows including headers and 21 columns which are: 
 
