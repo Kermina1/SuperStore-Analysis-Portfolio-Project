@@ -3,10 +3,10 @@
 In today's competitive retail landscape, businesses must continuously adapt to shifting consumer preferences and market dynamics. This project centers on Superstore, a fictional retail giant, aiming to provide actionable insights by analyzing its profit performance data from 2014 to 2017. Through an in-depth analysis of customer behavior, product performance, market and profit trends, this analysis identifies key performance indicators (KPIs) and uncovers patterns that significantly impact profitability. The goal is to offer data-driven recommendations that support the Superstore’s strategic decision-making and long-term growth focused on profit optimization.
 # Objective
 The primary objective of this project is to optimize profit which is achieved through detailed analysis of different aspects of the superstore data set to give data driven recommendation.
-# Tool used
-**SQL** (PostgreSQL):  data analysis  **[You can Check my SQL queries here!!](superstore_data_analysis_project.sql)**
+# Tools used
+**SQL** (PostgreSQL):  data analysis.  **[You can Check my SQL queries here!!](superstore_data_analysis_project.sql)**
 
-**Power BI**: Used for visualizing insights with interactive dashboards. 
+**Power BI**: Used for visualizing insights with interactive dashboards. **[You can Check my Power BI pdf here!!](superstore_analysis.pdf)**
 # Data Description
 The Superstore dataset is publicly available through Kaggle website as one CSV file, it’s a comprehensive collection of sales data from 2014-01-13 to 2017-12-28 consisting of 8000 rows including headers and 21 columns which are: 
 
@@ -591,3 +591,9 @@ Same Day shipping has an average shipping time of 0 days, which is expected, but
 - Prioritize the most profitable Consumer segment while targeting growth opportunities in the Corporate and Home Office segments.
 - Optimize Standard Class shipping mode operations and explore premium shipping options like Same Day and First Class to drive overall profitability.
 - Consider rewarding our top performing customers.
+# What I Learned
+- Advanced SQL Querying: Gained proficiency in complex SQL functions and data extraction techniques.
+- Data Analysis Techniques: Improved ability to analyze profit trends and sales.
+- Data Visualization with Power BI: Enhanced skills in creating interactive and effective visual dashboards.
+- Critical Thinking and Problem Solving: Strengthened ability to interpret data and provide actionable insights.
+- Project Documentation and Presentation: Learned to document my project using GitHub.
