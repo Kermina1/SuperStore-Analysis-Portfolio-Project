@@ -1,4 +1,5 @@
 # SuperStore-Analysis-Portfolio-Project
+![image](shop.jpg)
 # Project Overview
 In today's competitive retail landscape, businesses must continuously adapt to shifting consumer preferences and market dynamics. This project centers on Superstore, a fictional retail giant, aiming to provide actionable insights by analyzing its profit performance data from 2014 to 2017. Through an in-depth analysis of customer behavior, product performance, market and profit trends, this analysis identifies key performance indicators (KPIs) and uncovers patterns that significantly impact profitability. The goal is to offer data-driven recommendations that support the Superstore’s strategic decision-making and long-term growth focused on profit optimization.
 # Objective
